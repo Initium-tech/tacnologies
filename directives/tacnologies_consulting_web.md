@@ -18,7 +18,7 @@ Crear una landing page moderna, funcional y responsiva para la empresa de consul
   - Compromiso: Talento local, sostenibilidad, diversidad.
   - Contacto: 787-508-6578, info@tacnologies.com, www.tacnologies.com
 - **Recursos Técnicos**:
-  - Logo S3/CloudFront: `https://d12345.cloudfront.net/customerwebpages/tacnologies-assets/tacnologieslogo.png`
+  - Logo S3/CloudFront: `https://d16y57bdjt0bnh.cloudfront.net/customerwebpages/tacnologies-assets/ 
   - Framework: Tailwind CSS.
 
 ## Salidas (Outputs)
